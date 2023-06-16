@@ -1,3 +1,3 @@
 # practice
 
-git , github, vs code 연습하기
+git 만 사용한 후 넘기기 
